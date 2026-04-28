@@ -29,7 +29,7 @@ The next step of pre processing was to convert the drawings to a binary 28x28 ma
 
 All code for this project can be run directly in the provided Google Colab notebook labelled "Final Project Code.ipynb" in the `/code` folder or linked above.
 
-There is already a preprocessed version of the dataset included in the repository in the `/data` folder, with a subset if 1,000 images for each of the 26 clases (26,000 images):
+There is already a preprocessed version of the dataset included in the repository in the `/data` folder, with a subset of 1,000 images for each of the 26 classes (26,000 images):
 
 - `/data/X_sampled_1000.npy`
 - `/data/y_sampled_1000.npy`
