@@ -1,7 +1,7 @@
 # CSCI335 Final Project
 ## Quick to Draw? More Like Quick to Classify!
 
-Colab Link: [https://colab.research.google.com/drive/1dEu1YhPLtTfIHpNCZCcuIsI2v1MAIF1a?usp=sharing](https://colab.research.google.com/drive/1dEu1YhPLtTfIHpNCZCcuIsI2v1MAIF1a?usp=sharing)
+Google Colab Notebook Link: [https://colab.research.google.com/drive/1dEu1YhPLtTfIHpNCZCcuIsI2v1MAIF1a?usp=sharing](https://colab.research.google.com/drive/1dEu1YhPLtTfIHpNCZCcuIsI2v1MAIF1a?usp=sharing)
 
 ## Abstract
 This project looks at how well different machine learning models can classify simple hand-drawn images from Google’s "Quick, Draw!" dataset. These sketches are noisy, abstract, and have a lot of variation, which can make them difficult to classify. We compare CNN, SVM, and Vision Transformer (ViT) models based on their accuracy and their ability to distinguish visually similar classes. We hypothesize that models perform better on distinct classes and struggle with similar ones.
