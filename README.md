@@ -37,7 +37,7 @@ There is already a preprocessed version of the dataset included in the repositor
 To use them:
 1. Open the notebook in Google Colab
 2. Upload the two files in the `/data` folder to the Colab Notebook Files
-3. **Skip to Section 4b** in the Data Processing section of the the notebook
+3. **Skip to Section 4b** in the Data Preprocessing section of the the notebook
 4. Run the Colab Notebook from there to train and evaluate the three models
 
 This avoids the preprocessing step. Otherwise, the Colab Notebook can be run from the start to preprocess the original dataset.
